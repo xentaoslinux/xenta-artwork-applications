@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Alldeb Manager
+Comment=Utilitas untuk menginstall file alldeb
+TryExec=alldeb-manager
+Exec=alldeb-manager %f
+MimeType=application/x-alldeb;application/alldeb;
+Terminal=false
+Categories=Utility;
+Icon=alldeb-manager
+X-Desktop-File-Install-Version=0.22
