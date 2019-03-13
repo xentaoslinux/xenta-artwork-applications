@@ -1,0 +1,10 @@
+interest /usr/share/applications/alldeb-manager.deskktop
+interest /usr/share/applications/alldeb-manager-pkexec.deskktop
+interest /usr/share/bluefish/bluefish_splash.png
+interest /usr/share/gimp/2.0/images/gimp-splash.png
+interest /usr/share/inkscape/icons/icons.svg
+interest /usr/share/inkscape/screens/about.svg
+interest /usr/lib/libreoffice/program/intro.png
+interest /etc/libreoffice/sofficerc
+interest /opt/libreoffice6.2/program/intro.png
+interest /opt/libreoffice6.2/program/sofficerc
